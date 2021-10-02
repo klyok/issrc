@@ -1,0 +1,5 @@
+files:
+  - source: /Files/Default.isl
+    ignore:
+      - /Files/Languages/
+    translation: /Files/Languages/Unofficial/%language%.isl
